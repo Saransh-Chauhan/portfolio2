@@ -1,1 +1,3 @@
-# click to view --  https://saransh-chauhan.github.io/portfolio2/
+THIS WEBSITE WAS CREATED DURING MY INTERNSHIP @Myknot Services OPC Private Limited
+
+
